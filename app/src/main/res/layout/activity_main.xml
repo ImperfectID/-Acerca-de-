@@ -146,6 +146,6 @@ android:background="@drawable/fondo"
         android:layout_centerHorizontal="true"
         android:textColor="#000"
 
-        android:text="powered by: Rodrigo Martinez" />
+        android:text="powered by: Rodrigo Martínez" />
 
 </RelativeLayout>
