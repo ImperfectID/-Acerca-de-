@@ -32,7 +32,7 @@ android:background="@drawable/fondo"
         android:layout_width="match_parent"
         android:layout_height="130dp"
         android:layout_marginTop="20dp"
-        android:src="@drawable/IMG_20170816_170807"
+        android:src="@drawable/perfil"
         android:id="@+id/imageView" />
 
     <LinearLayout
@@ -52,7 +52,7 @@ android:background="@drawable/fondo"
             <ImageView
                 android:layout_width="59dp"
                 android:layout_height="55dp"
-                android:src="@drawable/Github" />
+                android:src="@drawable/github" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -74,7 +74,7 @@ android:background="@drawable/fondo"
             <ImageView
                 android:layout_width="59dp"
                 android:layout_height="45dp"
-                android:src="@drawable/Tel" />
+                android:src="@drawable/tel" />
 
             <TextView
                 android:layout_width="wrap_content"
